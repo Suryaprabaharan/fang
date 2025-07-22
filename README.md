@@ -129,7 +129,7 @@ Then serve it with a backend server or deploy both to a platform like Render, He
 
 **Port Conflicts**
 
--Make sure 5000 (backend) and 3000 (frontend) are available.
+-Make sure 5001 (backend) and 5173 (frontend) are available.
 -You can change them in .env and package.json.
 
 **Node Modules Errors**
