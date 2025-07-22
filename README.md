@@ -156,6 +156,6 @@ This project is licensed under the MIT License. See the [LICENSE](license) file 
 
 ## 👨‍💻 Developed By
 
-Surya Prakash M | Surya Prabharan | Sunil S
+Surya Prakash M | Surya Prabharan M | Sunil S
 
 # Happy chatting with FANG! 💬🌐🗣️
